@@ -7,7 +7,7 @@ Pytorch implementation of FontRL: Chinese Font Synthesis via Deep Reinforcement 
 * tensorboardX
 * opencv-python
 
-## train & test
+## Train & Test
 
 Run run.sh
 
